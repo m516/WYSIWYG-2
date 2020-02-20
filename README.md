@@ -10,12 +10,12 @@ The player block can rest on top of any other existing block in the game, but di
 
 Block | Description
 ----- | -----------------
-![Generic block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/data/Block-Generic.png) | A simple block that does nothing special
-![Player block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/data/Block-Player.png) | This is you!
-![Rotate clockwise block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/data/Block-Rotate-Right.png) | A block that rotates the view clockwise. It really puts a new perspective on the game!
-![Rotate counterclockwise block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/data/Block-Rotate-Left.png) | Like the previous block, but rotates the view in the *opposite* direction
-![Goal block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/data/Block-Goal.png) | The goal block. Land on top of it to advance to the next level
-![Mysterious block](https://github.com/QuarksAndLeptons/WYSIWYG-2/blob/master/wysiwyg2/data/Block-Antigravity.png) | Play to find out what this block does!
+![Generic block](wysiwyg2/data/Block-Generic.png) | A simple block that does nothing special
+![Player block](wysiwyg2/data/Block-Player.png) | This is you!
+![Rotate clockwise block](wysiwyg2/data/Block-Rotate-Right.png) | A block that rotates the view clockwise. It really puts a new perspective on the game!
+![Rotate counterclockwise block](wysiwyg2/data/Block-Rotate-Left.png) | Like the previous block, but rotates the view in the *opposite* direction
+![Goal block](wysiwyg2/data/Block-Goal.png) | The goal block. Land on top of it to advance to the next level
+![Mysterious block](wysiwyg2/data/Block-Antigravity.png) | Play to find out what this block does!
 
 If you're stuck, press a mouse button for three seconds and a menu will appear. In the backgound, you can rotate the view with the mouse for a better look at the rest of the field. 
 
