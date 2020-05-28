@@ -39,7 +39,7 @@ The original Python version can be found [here](https://github.com/QuarksAndLept
  
 
 ## Questions?
-Please post issues under the *[issues](https://github.com/QuarksAndLeptons/WYSIWYG-2/issues)* tab. For cool level ideas, email me [here](micah112358@gmail.com) and you might see your own level in the next release!
+Please post issues under the *[issues](https://github.com/QuarksAndLeptons/WYSIWYG-2/issues)* tab. For cool level ideas, fork this repository and request a merge at [Github](https://github.com/m516/WYSIWYG-2), and you might see your own level in the next release!
 
 
 
