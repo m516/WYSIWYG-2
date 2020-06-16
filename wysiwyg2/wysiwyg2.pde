@@ -1,6 +1,6 @@
 void setup() {
   fullScreen(P2D);
-  noSmooth();
+  //noSmooth();
   //if(!debug)noCursor();
   initializeEngine();
   initializeGlobals();
