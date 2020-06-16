@@ -1,4 +1,7 @@
 # How to Play WYSIWYG 2
+
+![A screenshot of the game in action](media/Screenshot.png)
+
 The goal of the game is simple: move the player to a green goal block to advance to the next level. To move the player, click (or tap with a touch screen) in the general direction you want to move the player, i.e. if you want to go to a block that appears to be on the top and left of the player, click on the top left side of the screen.
 The player block can rest on top of any other existing block in the game, but different blocks interact with the world and the player block in different ways. Here is a list of all existing blocks and what they do:
 
