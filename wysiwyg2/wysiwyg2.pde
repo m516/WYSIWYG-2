@@ -1,5 +1,5 @@
 void setup() {
-  size(640, 480, P2D);
+  fullScreen(P2D);
   noSmooth();
   //if(!debug)noCursor();
   initializeEngine();
