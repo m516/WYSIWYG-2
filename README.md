@@ -1,5 +1,8 @@
 # WYSIWYG-2
 A cross-platform 3D game featuring a cube in a world riddled with optical illusions.
+
+![A screenshot of the game in action](media/Screenshot.png)
+
 ## Installation
 1. Go to the [releases](https://github.com/QuarksAndLeptons/WYSIWYG-2/releases/) tab and download the latesest release that matches your operating system and CPU architecture
 2. Extract the files
