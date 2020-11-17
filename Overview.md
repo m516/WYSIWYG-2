@@ -11,7 +11,7 @@ The components of this game are split into seven files. Note that in Processing,
 4. [globals](wysiwyg2/globals.pde) contains global variables for the game, like sprite and game data. It also contains a method that loads this data from files in the repository.
 5. [mechanics](wysiwyg2/mechanics.pde) is the file holding more nitty-gritty details about the game mechanics, like camera behavior and how levels are loaded.
 6. [ui](wysiwyg2/ui.pde) has everything related to the menu system. 
-7. [wysiwig2](wysiwyg2/wysiwig2.pde) contains all the methods that are built into Processing and used in this sketch: `setup`, `draw()`,
+7. [wysiwyg2](wysiwyg2/wysiwyg2.pde) contains all the methods that are built into Processing and used in this sketch: `setup`, `draw()`,
 `mousePressed`, and `mouseReleased`.
 
 
